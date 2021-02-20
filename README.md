@@ -1,2 +1,2 @@
-# Showcase-OOP
-A showcase of my object oriented programming projects!
+# Showcase-Python
+A showcase of my Python projects!
